@@ -1,5 +1,6 @@
 # Leetcode (Main)
 ## Skill Tree
+[Explore - LeetCode](https://leetcode.com/explore/learn/card/the-leetcode-beginners-guide/679/sql-syntax/4358/)
 ![[{922B08B4-EE03-46BC-8F9D-7C30072A9DF5}.png]]
 
 

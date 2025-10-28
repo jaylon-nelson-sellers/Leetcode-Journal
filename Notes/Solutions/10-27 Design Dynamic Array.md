@@ -1,4 +1,4 @@
-
+- [[Design Dynamic Array (Resizable Array)]]
 class DynamicArray:
 
     def __init__(self, capacity: int):

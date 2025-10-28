@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025-10-27.md",
+                "file": "Journal/2025-10-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-27"
+              "title": "2025-10-28"
+            }
+          },
+          {
+            "id": "76358949bbd6ac7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2025-10-28.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-28"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,26 +198,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "c4ecc09eb12fa847",
+  "active": "76358949bbd6ac7f",
   "lastOpenFiles": [
-    "Solutions/10-27 Design Dynamic Array.md",
-    "{922B08B4-EE03-46BC-8F9D-7C30072A9DF5}.png",
-    "Where to Start.md",
-    "Notes/2025-10-27.md",
-    "Solutions/10-27 Contains Duplicate.md",
+    "Problems/485. Max Consecutive Ones.md",
+    "Journal/2025-10-28.md",
     "Problems/217. Contains Duplicate.md",
+    "Problems/977. Squares of a Sorted Array.md",
+    "Problems/1295. Find Numbers with Even Number of Digits.md",
+    "Studies/Array Introduction.md",
+    "Where to Start.md",
+    "Studies",
+    "Problems/2878. Get the Size of a DataFrame.md",
+    "Problems/Untitled.md",
+    "Problems/242. Valid Anagram.md",
+    "Solutions/10-28 242.md",
+    "Solutions/10-28 1480.md",
+    "Solutions/10-28 26.md",
+    "Solutions/10-27 Design Dynamic Array.md",
+    "Solutions/10-27 217.md",
+    "Solutions/10-27 1929.md",
     "Problems/1929. Concatenation of Array.md",
-    "Solutions/10-27 Concatenation of Array.md",
+    "Journal/2025-10-27.md",
+    "Solutions/10-28 1672.md",
+    "Problems/1672. Richest Customer Wealth.md",
+    "Solutions/10-28 1929.md",
+    "Problems/1480. Running Sum of 1d Array.md",
+    "Problems/383. Ransom Note.md",
+    "{922B08B4-EE03-46BC-8F9D-7C30072A9DF5}.png",
     "Problems/Neets/Design Dynamic Array (Resizable Array).md",
     "Untitled 1.md",
-    "Problems/383. Ransom Note.md",
     "Problems/26. Remove Duplicates from Sorted Array.md",
     "Problems/Neets",
-    "Attemps/26. 10-27.md",
-    "Solutions/26. Solution.md",
     "Solutions",
     "Attemps",
-    "Notes",
+    "Journal",
     "Problems"
   ]
 }
