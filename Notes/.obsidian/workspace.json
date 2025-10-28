@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "f2a3068adc3e7845",
+    "type": "split",
+    "children": [
+      {
+        "id": "159454fbb0b200f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "246fb54941e7dbcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2025-10-27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-27"
+            }
+          },
+          {
+            "id": "c4ecc09eb12fa847",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2025-10-27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-27"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8c24c46d1eca8e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ea414ac877f5f66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5ba24f5e1371461",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "649fc730cce6a48a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9c4d604309beb088",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "758e009b3fbb23a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dcc392088653e69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06c3d90c8f108c46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Where to Start.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Where to Start"
+            }
+          },
+          {
+            "id": "833c2dfbe2b9e448",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Where to Start.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Where to Start"
+            }
+          },
+          {
+            "id": "94ffbb4533459a17",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "827e182b952bda5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Where to Start.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Where to Start"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c4ecc09eb12fa847",
+  "lastOpenFiles": [
+    "Solutions/10-27 Design Dynamic Array.md",
+    "{922B08B4-EE03-46BC-8F9D-7C30072A9DF5}.png",
+    "Where to Start.md",
+    "Notes/2025-10-27.md",
+    "Solutions/10-27 Contains Duplicate.md",
+    "Problems/217. Contains Duplicate.md",
+    "Problems/1929. Concatenation of Array.md",
+    "Solutions/10-27 Concatenation of Array.md",
+    "Problems/Neets/Design Dynamic Array (Resizable Array).md",
+    "Untitled 1.md",
+    "Problems/383. Ransom Note.md",
+    "Problems/26. Remove Duplicates from Sorted Array.md",
+    "Problems/Neets",
+    "Attemps/26. 10-27.md",
+    "Solutions/26. Solution.md",
+    "Solutions",
+    "Attemps",
+    "Notes",
+    "Problems"
+  ]
+}
