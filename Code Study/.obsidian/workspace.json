@@ -53,14 +53,12 @@
             "id": "e40872ea6d264249",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Solutions/3-11.md",
-                "mode": "source",
-                "source": false
+                "file": "Leetcode Guide.png"
               },
-              "icon": "lucide-file",
-              "title": "3-11"
+              "icon": "lucide-image",
+              "title": "Leetcode Guide"
             }
           }
         ],
@@ -214,6 +212,14 @@
   },
   "active": "f5ba24f5e1371461",
   "lastOpenFiles": [
+    "Solutions/977.py",
+    "Solutions/941.py",
+    "Where to Start.md",
+    "Leetcode Guide.png",
+    "Studies/Array Introduction.md",
+    "Journal/2026-03-11.md",
+    "Notes",
+    "Studies/Untitled",
     "Solutions/1346.py",
     "Solutions/1346.txt",
     "Solutions/New Text Document.txt",
@@ -221,12 +227,9 @@
     "Solutions/3-11 27.md",
     "Solutions/3-11.md",
     "Solutions/Untitled.md",
-    "Journal/2026-03-11.md",
     "Journal/3-7 CompTIA Study.md",
-    "{922B08B4-EE03-46BC-8F9D-7C30072A9DF5}.png",
     "Journal/2026-03-09.md",
     "Journal/2026-03-08.md",
-    "Where to Start.md",
     "A+",
     "Journal/2026-03-07.md",
     "Journal/2025-11-06.md",
@@ -237,7 +240,6 @@
     "Problems/217. Contains Duplicate.md",
     "Problems/977. Squares of a Sorted Array.md",
     "Problems/1295. Find Numbers with Even Number of Digits.md",
-    "Studies/Array Introduction.md",
     "Studies",
     "Problems/2878. Get the Size of a DataFrame.md",
     "Problems/Untitled.md",
@@ -246,10 +248,6 @@
     "Solutions/10-28 1480.md",
     "Solutions/10-28 26.md",
     "Solutions/10-27 Design Dynamic Array.md",
-    "Problems/Neets",
-    "Solutions",
-    "Attemps",
-    "Journal",
-    "Problems"
+    "Problems/Neets"
   ]
 }
