@@ -53,12 +53,14 @@
             "id": "e40872ea6d264249",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Leetcode Guide.png"
+                "file": "Journal/2026-03-13.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Leetcode Guide"
+              "icon": "lucide-file",
+              "title": "2026-03-13"
             }
           }
         ],
@@ -210,12 +212,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "f5ba24f5e1371461",
+  "active": "e40872ea6d264249",
   "lastOpenFiles": [
+    "Leetcode Guide.png",
+    "Journal/2026-03-13.md",
     "Solutions/977.py",
     "Solutions/941.py",
     "Where to Start.md",
-    "Leetcode Guide.png",
     "Studies/Array Introduction.md",
     "Journal/2026-03-11.md",
     "Notes",
@@ -246,8 +249,6 @@
     "Problems/242. Valid Anagram.md",
     "Solutions/10-28 242.md",
     "Solutions/10-28 1480.md",
-    "Solutions/10-28 26.md",
-    "Solutions/10-27 Design Dynamic Array.md",
-    "Problems/Neets"
+    "Solutions/10-28 26.md"
   ]
 }
