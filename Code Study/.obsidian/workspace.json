@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2026-03-13.md",
+                "file": "Journal/2026-03-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-13"
+              "title": "2026-03-14"
             }
           }
         ],
@@ -214,8 +214,9 @@
   },
   "active": "e40872ea6d264249",
   "lastOpenFiles": [
-    "Leetcode Guide.png",
     "Journal/2026-03-13.md",
+    "Journal/2026-03-14.md",
+    "Leetcode Guide.png",
     "Solutions/977.py",
     "Solutions/941.py",
     "Where to Start.md",
