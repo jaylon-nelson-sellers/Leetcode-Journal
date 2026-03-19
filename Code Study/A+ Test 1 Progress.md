@@ -1,9 +1,8 @@
-
 | Topics Available                     | Total Questions | Answered Questions | Previously Incorrect | Answered Percent | Score |
 | ------------------------------------ | --------------- | ------------------ | -------------------- | ---------------- | ----- |
-| All Questions                        | 695             | 394                | 229                  | 56%              | 42%   |
-| Mobile Devices                       | 88              | 50                 | 21                   | 56%              | 58%   |
-| Networking                           | 211             | 124                | 90                   | 58%              | 27%   |
-| Hardware                             | 218             | 122                | 52                   | 55%              | 57%   |
-| Virtualization and Cloud Computing   | 50              | 27                 | 17                   | 54%              | 37%   |
-| Hardware and Network Troubleshooting | 128             | 71                 | 49                   | 55%              | 31%   |
+| All Questions                        | 695             | 415                | 237                  | 59%              | 43%   |
+| Mobile Devices                       | 88              | 51                 | 22                   | 57%              | 57%   |
+| Networking                           | 211             | 128                | 93                   | 60%              | 27%   |
+| Hardware                             | 218             | 129                | 53                   | 59%              | 59%   |
+| Virtualization and Cloud Computing   | 50              | 28                 | 17                   | 56%              | 39%   |
+| Hardware and Network Troubleshooting | 128             | 79                 | 52                   | 61%              | 34%   |
