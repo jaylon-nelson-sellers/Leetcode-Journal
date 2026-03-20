@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sec+ Progress.md",
+                "file": "Journal/2026-03-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sec+ Progress"
+              "title": "2026-03-20"
             }
           }
         ],
@@ -214,10 +214,11 @@
   },
   "active": "e40872ea6d264249",
   "lastOpenFiles": [
+    "Sec+ Progress.md",
+    "Journal/2026-03-20.md",
     "Journal/2026-03-19.md",
     "Journal/2026-03-18.md",
     "A+ Test 1 Progress.md",
-    "Sec+ Progress.md",
     "{ABF1762E-C3C2-417F-B9FA-AE362683186B}.png",
     "Journal/2026-03-17.md",
     "Journal/2026-03-16.md",
@@ -250,7 +251,6 @@
     "Journal/2025-11-03.md",
     "Journal/2025-10-28.md",
     "Problems/485. Max Consecutive Ones.md",
-    "Problems/217. Contains Duplicate.md",
-    "Problems/977. Squares of a Sorted Array.md"
+    "Problems/217. Contains Duplicate.md"
   ]
 }
