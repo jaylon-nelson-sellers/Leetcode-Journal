@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2026-03-20.md",
+                "file": "Journal/2026-03-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-20"
+              "title": "2026-03-22"
             }
           }
         ],
@@ -214,8 +214,9 @@
   },
   "active": "e40872ea6d264249",
   "lastOpenFiles": [
-    "Sec+ Progress.md",
     "Journal/2026-03-20.md",
+    "Journal/2026-03-22.md",
+    "Sec+ Progress.md",
     "Journal/2026-03-19.md",
     "Journal/2026-03-18.md",
     "A+ Test 1 Progress.md",
@@ -250,7 +251,6 @@
     "Journal/2025-11-04.md",
     "Journal/2025-11-03.md",
     "Journal/2025-10-28.md",
-    "Problems/485. Max Consecutive Ones.md",
-    "Problems/217. Contains Duplicate.md"
+    "Problems/485. Max Consecutive Ones.md"
   ]
 }
