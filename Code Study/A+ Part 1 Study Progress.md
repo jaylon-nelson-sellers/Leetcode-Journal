@@ -1,13 +1,13 @@
 # Exam
-
 | Topics Available                     | Total Questions | Answered Questions | Previously Incorrect | Answered Percent | Score |
 | ------------------------------------ | --------------- | ------------------ | -------------------- | ---------------- | ----- |
-| All Questions                        | 384             | 5                  | 1                    | 1%               | 80%   |
-| Mobile Devices                       | 37              | 0                  | 0                    | 0%               | 0%    |
-| Networking                           | 73              | 1                  | 0                    | 1%               | 100%  |
-| Hardware                             | 112             | 1                  | 1                    | 0%               | 0%    |
-| Virtualization and Cloud Computing   | 40              | 3                  | 0                    | 7%               | 100%  |
-| Hardware and Network Troubleshooting | 122             | 0                  | 0                    | 0%               | 0%    |
+| All Questions                        | 384             | 94                 | 28                   | 24%              | 70%   |
+| Mobile Devices                       | 37              | 12                 | 4                    | 32%              | 67%   |
+| Networking                           | 73              | 22                 | 6                    | 30%              | 73%   |
+| Hardware                             | 112             | 23                 | 6                    | 20%              | 74%   |
+| Virtualization and Cloud Computing   | 40              | 12                 | 4                    | 30%              | 67%   |
+| Hardware and Network Troubleshooting | 122             | 25                 | 8                    | 20%              | 68%   |
+
 # Quizzes
 
 | Topics Available                     | Total Questions | Answered Questions | Previously Incorrect | Answered Percent | Score |
