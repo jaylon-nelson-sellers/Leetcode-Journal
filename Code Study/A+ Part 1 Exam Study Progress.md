@@ -1,9 +1,9 @@
 # Exam
 | **Topics Available**                 | **Total Questions** | **Answered Questions** | **Previously Incorrect** | **Answered Percent** | **Score** |
 | ------------------------------------ | ------------------- | ---------------------- | ------------------------ | -------------------- | --------- |
-| **All Questions**                    | **384**             | **163**                | **44**                   | **42%**              | **73%**   |
-| Mobile Devices                       | 37                  | 18                     | 3                        | 48%                  | 83%       |
-| Networking                           | 73                  | 36                     | 9                        | 49%                  | 75%       |
-| Hardware                             | 112                 | 43                     | 9                        | 38%                  | 79%       |
-| Virtualization and Cloud Computing   | 40                  | 20                     | 5                        | 50%                  | 75%       |
-| Hardware and Network Troubleshooting | 122                 | 46                     | 18                       | 37%                  | 61%       |
+| **All Questions**                    | **384**             | **253**                | **64**                   | **65%**              | **75%**   |
+| Mobile Devices                       | 37                  | 27                     | 3                        | 72%                  | 89%       |
+| Networking                           | 73                  | 53                     | 8                        | 72%                  | 85%       |
+| Hardware                             | 112                 | 71                     | 20                       | 63%                  | 72%       |
+| Virtualization and Cloud Computing   | 40                  | 30                     | 7                        | 75%                  | 77%       |
+| Hardware and Network Troubleshooting | 122                 | 72                     | 26                       | 59%                  | 64%       |
