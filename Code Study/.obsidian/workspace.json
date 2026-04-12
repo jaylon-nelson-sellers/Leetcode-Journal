@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2026-04-10.md",
+                "file": "Journal/2026-04-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-10"
+              "title": "2026-04-11"
             }
           }
         ],
@@ -200,8 +200,9 @@
   },
   "active": "1834bc48eb39d30e",
   "lastOpenFiles": [
-    "A+ Part 1 Exam Study Progress.md",
     "Journal/2026-04-10.md",
+    "Journal/2026-04-11.md",
+    "A+ Part 1 Exam Study Progress.md",
     "Journal/2026-04-09.md",
     "Notes/CompTIA A+ Core 1 Practice Questions and Answers.md",
     "Journal/2026-04-08.md",
@@ -228,7 +229,6 @@
     "Journal/2026-03-25.md",
     "Venv for python.md",
     "Journal/2026-03-24.md",
-    "A+ Part 1.md",
     "{ABF1762E-C3C2-417F-B9FA-AE362683186B}.png",
     "Solutions/876.py",
     "Solutions/1929.py",
