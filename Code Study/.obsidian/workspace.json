@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2026-04-28.md",
+                "file": "Where to Start.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-28"
+              "title": "Where to Start"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbook Study Routine.md",
+                "file": "Journal/2026-04-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Textbook Study Routine"
+              "title": "2026-04-29"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,43 +184,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "082bb26ca152d2c2",
+  "active": "f17489282ef7cac1",
   "lastOpenFiles": [
+    "Anki Future Due.md",
+    "Anki Reviews.md",
+    "Anki MOC.md",
+    "Journal/2026-04-29.md",
+    "10_Literature/Prompts to Copy Text.md",
+    "Prompts MOC.md",
+    "Python MOC.md",
+    "Sec+ Flashcards Progress.md",
+    "Where to Start.md",
     "Textbook Study Routine.md",
+    "Network MOC.md",
+    "Notes/CompTIA A+ Core 1 Practice Questions and Answers.md",
+    "Journal/3-7 CompTIA Study.md",
+    "10_Literature/Net+ Chapters.md",
+    "10_Literature/Workstations.md",
+    "Code/Venv for python.md",
+    "90_Assets/Leetcode Guide.png",
+    "A+/A+ Part 1 Exam Study Progress.md",
+    "A+/A+ Part 1 Flashcards Study Progress.md",
     "Journal/2026-04-28.md",
     "10_Literature/Interconnected computers.md",
     "90_Assets/Network+ Study Guide.md",
     "10_Literature/Network Definitions.md",
     "10_Literature/Network Basics.md",
     "10_Literature/Introduction to Networks.md",
-    "Network MOC.md",
     "10_Literature/Resource Sharing.md",
     "10_Literature/Binary code communication.md",
-    "Workstations.md",
-    "10_Literature/Common Network Components.md",
-    "Net+ Chapters.md",
     "90_Assets",
     "20_Permanent",
     "10_Literature",
     "Untitled",
     "00_Inbox",
-    "Lit Notes/Networks.md",
     "Perm Notes",
     "Ref Notes",
     "Lit Notes",
-    "Journal/2026-04-27.md",
-    "Notes/Prompts to Copy Text.md",
-    "Journal/2026-04-26.md",
-    "Journal/2026-04-25.md",
-    "Journal/2026-04-24.md",
-    "Journal/2026-04-23.md",
-    "Journal/2026-04-22.md",
-    "Journal/2026-04-21.md",
-    "Journal/2026-04-20.md",
-    "Journal/2026-04-19.md",
-    "Journal/2026-04-18.md",
-    "Journal/2026-04-17.md",
-    "Leetcode Guide.png",
     "{75896548-9EC0-497D-AD54-346150B02A36}.png",
     "{3B1DE757-D91C-4001-A512-112B0CC13CE7}.png",
     "{ABF1762E-C3C2-417F-B9FA-AE362683186B}.png",
