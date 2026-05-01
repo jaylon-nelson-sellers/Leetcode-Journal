@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2026-04-29.md",
+                "file": "Journal/2026-04-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-29"
+              "title": "2026-04-30"
             }
           }
         ],
@@ -186,10 +186,11 @@
   },
   "active": "f17489282ef7cac1",
   "lastOpenFiles": [
+    "Journal/2026-04-29.md",
+    "Journal/2026-04-30.md",
     "Anki Future Due.md",
     "Anki Reviews.md",
     "Anki MOC.md",
-    "Journal/2026-04-29.md",
     "10_Literature/Prompts to Copy Text.md",
     "Prompts MOC.md",
     "Python MOC.md",
@@ -212,7 +213,6 @@
     "10_Literature/Network Basics.md",
     "10_Literature/Introduction to Networks.md",
     "10_Literature/Resource Sharing.md",
-    "10_Literature/Binary code communication.md",
     "90_Assets",
     "20_Permanent",
     "10_Literature",
