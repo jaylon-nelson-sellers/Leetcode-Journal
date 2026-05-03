@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2026-05-01.md",
+                "file": "Journal/2026-05-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-01"
+              "title": "2026-05-02"
             }
           }
         ],
@@ -186,8 +186,9 @@
   },
   "active": "f17489282ef7cac1",
   "lastOpenFiles": [
-    "Journal/2026-04-30.md",
     "Journal/2026-05-01.md",
+    "Journal/2026-05-02.md",
+    "Journal/2026-04-30.md",
     "Journal/2026-04-29.md",
     "Anki Future Due.md",
     "Anki Reviews.md",
@@ -212,7 +213,6 @@
     "90_Assets/Network+ Study Guide.md",
     "10_Literature/Network Definitions.md",
     "10_Literature/Network Basics.md",
-    "10_Literature/Introduction to Networks.md",
     "90_Assets",
     "20_Permanent",
     "10_Literature",
