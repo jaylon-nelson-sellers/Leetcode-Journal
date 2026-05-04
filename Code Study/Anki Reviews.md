@@ -1,20 +1,20 @@
 ## One Month
 Days studied:	⁨31⁩ of ⁨31⁩ (⁨100⁩%)
-Total:	⁨3,715⁩ reviews
-Average for days studied:	⁨120⁩ reviews/day
-Average over period:	⁨120⁩ reviews/day
+Total:	⁨3,344⁩ reviews
+Average for days studied:	⁨108⁩ reviews/day
+Average over period:	⁨108⁩ reviews/day
 ## Three Months
-Days studied:	⁨79⁩ of ⁨90⁩ (⁨87.78⁩%)
-Total:	⁨8,157⁩ reviews
-Average for days studied:	⁨103⁩ reviews/day
-Average over period:	⁨91⁩ reviews/day
+Days studied:	⁨81⁩ of ⁨90⁩ (⁨90⁩%)
+Total:	⁨8,395⁩ reviews
+Average for days studied:	⁨104⁩ reviews/day
+Average over period:	⁨93⁩ reviews/day
 ## One Year
-Days studied:	⁨180⁩ of ⁨365⁩ (⁨49.32⁩%)
-Total:	⁨16,371⁩ reviews
-Average for days studied:	⁨91⁩ reviews/day
-Average over period:	⁨45⁩ reviews/day
+Days studied:	⁨184⁩ of ⁨365⁩ (⁨50.41⁩%)
+Total:	⁨16,629⁩ reviews
+Average for days studied:	⁨90⁩ reviews/day
+Average over period:	⁨46⁩ reviews/day
 ## All
-Days studied:	⁨402⁩ of ⁨2,698⁩ (⁨14.9⁩%)
-Total:	⁨40,608⁩ reviews
+Days studied:	⁨406⁩ of ⁨2,702⁩ (⁨15.03⁩%)
+Total:	⁨40,866⁩ reviews
 Average for days studied:	⁨101⁩ reviews/day
 Average over period:	⁨15⁩ reviews/day
