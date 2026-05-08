@@ -1,20 +1,20 @@
 ## One Month
-Total:	⁨609⁩ reviews
+Total:	⁨666⁩ reviews
 Average:	⁨5⁩ reviews/day
 Due tomorrow:	⁨64⁩ reviews
-Daily load:	⁨155⁩ reviews/day
+Daily load:	⁨145⁩ reviews/day
 ## Three Months
-Total:	⁨823⁩ reviews
+Total:	⁨872⁩ reviews
 Average:	⁨5⁩ reviews/day
 Due tomorrow:	⁨64⁩ reviews
-Daily load:	⁨155⁩ reviews/day
+Daily load:	⁨145⁩ reviews/day
 ## One Year
-Total:	⁨938⁩ reviews
+Total:	⁨1,002⁩ reviews
 Average:	⁨2⁩ reviews/day
 Due tomorrow:	⁨64⁩ reviews
-Daily load:	⁨155⁩ reviews/day
+Daily load:	⁨145⁩ reviews/day
 ## All
-Total:	⁨947⁩ reviews
-Average:	⁨1⁩ review/day
+Total:	⁨1,002⁩ reviews
+Average:	⁨2⁩ reviews/day
 Due tomorrow:	⁨64⁩ reviews
-Daily load:	⁨155⁩ reviews/day
+Daily load:	⁨145⁩ reviews/day
