@@ -18,3 +18,6 @@ Days studied:	⁨410⁩ of ⁨2,706⁩ (⁨15.15⁩%)
 Total:	⁨41,111⁩ reviews
 Average for days studied:	⁨100⁩ reviews/day
 Average over period:	⁨15⁩ reviews/day
+
+
+- Source: Anki

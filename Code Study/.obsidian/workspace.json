@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "159454fbb0b200f8",
+        "id": "115aea5fce26f134",
         "type": "tabs",
         "children": [
           {
-            "id": "082bb26ca152d2c2",
+            "id": "d48b9389b865dd9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Where to Start.md",
+                "file": "Journal/2026-05-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Where to Start"
-            }
-          },
-          {
-            "id": "f17489282ef7cac1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anki Future Due.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anki Future Due"
+              "title": "2026-05-08"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,39 +169,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "f17489282ef7cac1",
+  "active": "d48b9389b865dd9e",
   "lastOpenFiles": [
-    "Anki Reviews.md",
-    "Anki MOC.md",
-    "Anki Future Due.md",
-    "Journal/2026-05-07.md",
-    "Journal/2026-05-06.md",
-    "Journal/2026-05-05.md",
-    "Journal/2026-05-04.md",
-    "Journal/2026-05-03.md",
-    "Journal/2026-05-02.md",
-    "Journal/2026-05-01.md",
-    "Journal/2026-04-30.md",
-    "Journal/2026-04-29.md",
-    "10_Literature/Prompts to Copy Text.md",
-    "Prompts MOC.md",
-    "Python MOC.md",
-    "Sec+ Flashcards Progress.md",
-    "Where to Start.md",
-    "Textbook Study Routine.md",
-    "Network MOC.md",
-    "Notes/CompTIA A+ Core 1 Practice Questions and Answers.md",
-    "Journal/3-7 CompTIA Study.md",
-    "10_Literature/Net+ Chapters.md",
+    "Journal MOC.md",
+    "10_Literature/L27.md",
+    "30_Raw/0027. Remove Element.md",
+    "Journal/2026-05-08.md",
     "10_Literature/Workstations.md",
-    "Code/Venv for python.md",
+    "10_Literature/Sec+ Flashcards Progress.md",
+    "10_Literature/Resource Sharing.md",
+    "10_Literature/Prompts to Copy Text.md",
+    "10_Literature/Network Definitions.md",
+    "10_Literature/Interconnected computers.md",
+    "10_Literature/Introduction to Networks.md",
+    "10_Literature/Net+ Chapters.md",
+    "10_Literature/Leetcode Where to Start.md",
+    "10_Literature/Common Network Components.md",
+    "10_Literature/Binary code communication.md",
+    "10_Literature/Anki Reviews.md",
+    "10_Literature/Anki Future Due.md",
+    "30_Raw/0026. Remove Duplicates from Sorted Array.md",
+    "00_Home.md",
+    "MOCs/Two Pointer MOC.md",
+    "MOCs/Leetcode MOC.md",
+    "MOCs/Array MOC.md",
+    "Journal/2026-03-07.md",
+    "Journal/W2026-3-29 to 26-4-4.md",
+    "Journal/2025-03-07.md",
+    "Journal/2025-11-06.md",
     "90_Assets/Leetcode Guide.png",
-    "A+/A+ Part 1 Exam Study Progress.md",
-    "A+/A+ Part 1 Flashcards Study Progress.md",
+    "MOCs",
+    "30_Raw",
     "90_Assets",
     "20_Permanent",
     "10_Literature",
-    "Untitled",
     "00_Inbox",
     "Perm Notes",
     "Ref Notes",
@@ -224,7 +210,6 @@
     "{75896548-9EC0-497D-AD54-346150B02A36}.png",
     "{3B1DE757-D91C-4001-A512-112B0CC13CE7}.png",
     "{ABF1762E-C3C2-417F-B9FA-AE362683186B}.png",
-    "Solutions/876.py",
-    "Solutions/1929.py"
+    "Solutions/876.py"
   ]
 }

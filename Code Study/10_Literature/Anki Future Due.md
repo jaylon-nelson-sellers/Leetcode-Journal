@@ -18,3 +18,6 @@ Total:	⁨1,002⁩ reviews
 Average:	⁨2⁩ reviews/day
 Due tomorrow:	⁨64⁩ reviews
 Daily load:	⁨145⁩ reviews/day
+
+
+- Source: Anki
