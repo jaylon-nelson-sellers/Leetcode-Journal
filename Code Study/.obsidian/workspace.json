@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2026-05-10.md",
+                "file": "Journal/2026-05-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-10"
+              "title": "2026-05-11"
             }
           }
         ]
@@ -171,16 +171,19 @@
   },
   "active": "d48b9389b865dd9e",
   "lastOpenFiles": [
-    "Journal/2026-05-09.md",
-    "Journal/2026-05-10.md",
-    "Journal/2026-05-08.md",
     "Journal MOC.md",
+    "00_Home.md",
+    "MOCs/Prompts MOC.md",
+    "10_Literature/Prompts to Copy Text.md",
+    "Journal/2026-05-11.md",
+    "Journal/2026-05-10.md",
+    "Journal/2026-05-09.md",
+    "Journal/2026-05-08.md",
     "10_Literature/L27.md",
     "30_Raw/0027. Remove Element.md",
     "10_Literature/Workstations.md",
     "10_Literature/Sec+ Flashcards Progress.md",
     "10_Literature/Resource Sharing.md",
-    "10_Literature/Prompts to Copy Text.md",
     "10_Literature/Network Definitions.md",
     "10_Literature/Interconnected computers.md",
     "10_Literature/Introduction to Networks.md",
@@ -191,12 +194,9 @@
     "10_Literature/Anki Reviews.md",
     "10_Literature/Anki Future Due.md",
     "30_Raw/0026. Remove Duplicates from Sorted Array.md",
-    "00_Home.md",
     "MOCs/Two Pointer MOC.md",
     "MOCs/Leetcode MOC.md",
     "MOCs/Array MOC.md",
-    "Journal/2026-03-07.md",
-    "Journal/W2026-3-29 to 26-4-4.md",
     "90_Assets/Leetcode Guide.png",
     "MOCs",
     "30_Raw",
