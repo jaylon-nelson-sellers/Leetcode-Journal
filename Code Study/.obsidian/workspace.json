@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26299c1f2665dbe7",
+            "id": "c8724077b765f981",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2026-05-15.md",
+                "file": "Journal/2026-06-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-15"
+              "title": "2026-06-29"
+            }
+          },
+          {
+            "id": "bba8e8b1ca5d26e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1441. Build an Array With Stack Operations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1441. Build an Array With Stack Operations"
             }
           }
         ]
@@ -40,7 +54,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "asva",
+                "query": "1441. Build an Array With Stack Operations",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 261.5
   },
   "right": {
     "id": "758e009b3fbb23a1",
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Where to Start.md",
+                "file": "Net+ PracExam 1 WrongAnswer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Where to Start"
+              "title": "Backlinks for Net+ PracExam 1 WrongAnswer"
             }
           },
           {
@@ -142,21 +156,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Where to Start.md",
+                "file": "Journal/2026-06-29.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Where to Start"
+              "title": "Outline of 2026-06-29"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,36 +183,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "26299c1f2665dbe7",
+  "active": "c8724077b765f981",
   "lastOpenFiles": [
-    "Journal/2026-05-15.md",
-    "Journal/2026-05-14.md",
+    "00_Home.md",
+    "90_Assets/Leetcode Guide.png",
+    "Journal/2026-06-29.md",
+    "Untitled.md",
+    "1441. Build an Array With Stack Operations.md",
+    "30_Raw/0027. Remove Element.md",
+    "Journal/2026-03-15.md",
+    "Q3. Find All Numbers Disappeared in an Array.md",
     "10_Literature/Prompts to Copy Text.md",
     "MOCs/Prompts MOC.md",
-    "00_Home.md",
-    "Journal MOC.md",
-    "Sno-Isle Library.md",
-    "Journal/2026-05-13.md",
+    "Journal/2026-06-28.md",
+    "Journal/2026-06-26.md",
+    "Q3. Exclusive Time of Functions.md",
+    "Q2. Evaluate Reverse Polish Notation.md",
+    "Q2. How Many Numbers Are Smaller Than the Current Number.md",
+    "Journal/2026-03-17.md",
+    "Journal/2026-06-25.md",
+    "Net+ PracExam 1 WrongAnswer.md",
+    "Net+_Prac_Exam_1_Review.md",
+    "MOCs/Array MOC.md",
+    "Journal/2026-06-19.md",
+    "Journal/2026-06-24.md",
     "Journal/2026-05-12.md",
-    "MOCs/Anki MOC.md",
-    "10_Literature/Anki Future Due.md",
-    "Meta_Journal/D2710⁩.md",
-    "10_Literature/Anki Reviews.md",
-    "Journal/2026-05-11.md",
+    "Journal/2026-06-22.md",
+    "Journal/2026-06-20.md",
+    "1089. Duplicate Zeros.md",
+    "{A843E7DC-B0D2-4B3F-BBC2-60829B6D5E23}.png",
+    "{405D9FE9-D1F2-4D71-B56A-4F2F3079C58A}.png",
+    "{39FCE1EF-F4B6-449B-BADF-801B82F2E95E}.png",
+    "{2DC1F7DB-1D6F-4867-953A-DC9A7705D641}.png",
+    "{CBB9A2B9-F1C8-4711-AF1B-213A9332C196}.png",
+    "{E67B8D19-DAB6-457C-8507-7900ED38E75D}.png",
+    "{5959660C-35FE-44DE-A8F8-B3D362142F5D}.png",
     "Meta_Journal",
-    "30_Raw/1089. Duplicate Zeros.md",
-    "Journal/2026-05-10.md",
-    "Journal/2026-05-09.md",
-    "Journal/2026-05-08.md",
-    "10_Literature/L27.md",
-    "30_Raw/0027. Remove Element.md",
-    "10_Literature/Workstations.md",
-    "10_Literature/Sec+ Flashcards Progress.md",
-    "10_Literature/Resource Sharing.md",
-    "10_Literature/Network Definitions.md",
-    "10_Literature/Interconnected computers.md",
-    "10_Literature/Introduction to Networks.md",
-    "90_Assets/Leetcode Guide.png",
     "MOCs",
     "30_Raw",
     "90_Assets",
@@ -209,7 +229,6 @@
     "Ref Notes",
     "Lit Notes",
     "{75896548-9EC0-497D-AD54-346150B02A36}.png",
-    "{3B1DE757-D91C-4001-A512-112B0CC13CE7}.png",
-    "{ABF1762E-C3C2-417F-B9FA-AE362683186B}.png"
+    "{3B1DE757-D91C-4001-A512-112B0CC13CE7}.png"
   ]
 }
